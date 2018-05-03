@@ -10,7 +10,7 @@ librdkafka also provides a native C++ interface.
 
 The following chapters are available in this document
 
-  * Performance
+  * [Performance](#Performance)
     * Performance numbers
     * High throughput
     * Low latency
